@@ -1,7 +1,7 @@
 ![Norfair by Tryolabs logo](https://raw.githubusercontent.com/tryolabs/norfair/master/docs/img/logo.svg)
 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/tryolabs/norfair-demo)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tryolabs/norfair/blob/master/demos/colab/colab_demo.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hossein-Montazer/norfair_change/blob/master/norfair_YOLOV5.ipynb)
 
 ![PyPI - Python Versions](https://img.shields.io/pypi/pyversions/norfair)
 [![PyPI](https://img.shields.io/pypi/v/norfair?color=green)](https://pypi.org/project/norfair/)
